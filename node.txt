@@ -1,0 +1,14 @@
+syntax to follow to write the content in Readme.md
+
+# content -> h1 tag size
+## content -> h2 tag size
+### content -> h3 tag size
+
+'commands'
+.\ new line break
+
+[visible content](hyperlink) = [https://xyz.com](https://xyz.com)
+
+normal content -> just write paragraph wise
+
+**! important content !**
